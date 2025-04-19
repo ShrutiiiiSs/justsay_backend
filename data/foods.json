@@ -1,0 +1,92 @@
+[
+    {
+      "name": "McAloo Tikki",
+      "description": "Spiced potato and peas patty in a bun, topped with special McAloo sauce and fresh lettuce.",
+      "price": 2.50,
+      "rating": 4.2,
+      "ingredients": ["Potato patty", "Peas", "Lettuce", "Bun", "McAloo sauce"],
+      "calories": 350,
+      "isVeg": true
+    },
+    {
+      "name": "McChicken",
+      "description": "Crispy chicken patty with mayonnaise and shredded lettuce in a sesame seed bun.",
+      "price": 3.75,
+      "rating": 4.5,
+      "ingredients": ["Chicken patty", "Mayonnaise", "Lettuce", "Sesame bun"],
+      "calories": 430,
+      "isVeg": false
+    },
+    {
+      "name": "French Fries",
+      "description": "Crispy golden fries with just the right amount of salt.",
+      "price": 1.99,
+      "rating": 4.6,
+      "ingredients": ["Potatoes", "Salt", "Vegetable oil"],
+      "calories": 320,
+      "isVeg": true
+    },
+    {
+      "name": "Veg Pizza McPuff",
+      "description": "A savory snack filled with pizza-style vegetables and cheese in a crispy pastry.",
+      "price": 2.25,
+      "rating": 4.1,
+      "ingredients": ["Wheat flour", "Capsicum", "Onion", "Tomato", "Cheese", "Spices"],
+      "calories": 270,
+      "isVeg": true
+    },
+    {
+      "name": "Filet-O-Fish",
+      "description": "Mild fish fillet with tartar sauce and half a slice of cheese in a steamed bun.",
+      "price": 4.20,
+      "rating": 4.0,
+      "ingredients": ["Fish patty", "Tartar sauce", "Cheese", "Steamed bun"],
+      "calories": 380,
+      "isVeg": false
+    },
+    {
+      "name": "Big Mac",
+      "description": "Two all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun.",
+      "price": 5.50,
+      "rating": 4.7,
+      "ingredients": ["Beef patties", "Special sauce", "Lettuce", "Cheese", "Pickles", "Onions", "Sesame bun"],
+      "calories": 550,
+      "isVeg": false
+    },
+    {
+      "name": "Chicken Nuggets",
+      "description": "Crispy golden chicken nuggets served with your choice of dipping sauce.",
+      "price": 3.00,
+      "rating": 4.3,
+      "ingredients": ["Chicken", "Breadcrumbs", "Spices"],
+      "calories": 410,
+      "isVeg": false
+    },
+    {
+      "name": "Spicy Paneer Burger",
+      "description": "Spicy paneer patty with tandoori sauce, onions, and lettuce in a soft bun.",
+      "price": 3.80,
+      "rating": 4.4,
+      "ingredients": ["Paneer patty", "Tandoori sauce", "Lettuce", "Onion", "Bun"],
+      "calories": 460,
+      "isVeg": true
+    },
+    {
+      "name": "Cheeseburger",
+      "description": "Classic burger with beef patty and melted cheese, topped with pickles, onions, ketchup and mustard.",
+      "price": 3.25,
+      "rating": 4.5,
+      "ingredients": ["Beef patty", "Cheese", "Pickles", "Onion", "Ketchup", "Mustard", "Bun"],
+      "calories": 300,
+      "isVeg": false
+    },
+    {
+      "name": "Veg Maharaja Mac",
+      "description": "A double-decker delight with spicy veg patties, jalapenos, and cheese in a signature bun.",
+      "price": 6.00,
+      "rating": 4.8,
+      "ingredients": ["Veg patties", "Lettuce", "Cheese", "Jalapenos", "Maharaja sauce", "Signature bun"],
+      "calories": 600,
+      "isVeg": true
+    }
+  ]

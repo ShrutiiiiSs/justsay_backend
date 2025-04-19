@@ -1,0 +1,92 @@
+[
+    {
+      "name": "Coca-Cola",
+      "description": "Chilled and refreshing classic Coca-Cola served in a cup with ice.",
+      "price": 1.50,
+      "rating": 4.6,
+      "ingredients": ["Carbonated water", "Sugar", "Caramel color", "Phosphoric acid", "Natural flavors", "Caffeine"],
+      "calories": 140,
+      "isVeg": true
+    },
+    {
+      "name": "Iced Tea",
+      "description": "Freshly brewed iced tea served cold with a hint of lemon.",
+      "price": 1.75,
+      "rating": 4.2,
+      "ingredients": ["Black tea", "Lemon extract", "Sugar", "Water"],
+      "calories": 90,
+      "isVeg": true
+    },
+    {
+      "name": "Vanilla Shake",
+      "description": "Thick vanilla milkshake made with creamy soft-serve and vanilla flavor.",
+      "price": 2.50,
+      "rating": 4.5,
+      "ingredients": ["Milk", "Sugar", "Vanilla flavor", "Cream", "Stabilizers"],
+      "calories": 300,
+      "isVeg": true
+    },
+    {
+      "name": "Cold Coffee",
+      "description": "Chilled blended cold coffee with rich aroma and creamy texture.",
+      "price": 2.75,
+      "rating": 4.4,
+      "ingredients": ["Coffee", "Milk", "Sugar", "Ice"],
+      "calories": 180,
+      "isVeg": true
+    },
+    {
+      "name": "Orange Fizz",
+      "description": "Zesty orange-flavored carbonated drink for a fizzy delight.",
+      "price": 1.80,
+      "rating": 4.3,
+      "ingredients": ["Carbonated water", "Orange flavor", "Sugar", "Citric acid"],
+      "calories": 130,
+      "isVeg": true
+    },
+    {
+      "name": "Strawberry Smoothie",
+      "description": "Smooth blend of strawberries, yogurt, and ice for a fruity refreshment.",
+      "price": 2.90,
+      "rating": 4.6,
+      "ingredients": ["Strawberries", "Yogurt", "Sugar", "Ice"],
+      "calories": 210,
+      "isVeg": true
+    },
+    {
+      "name": "Mango Smoothie",
+      "description": "Tropical mango smoothie made with real mango pulp and creamy yogurt.",
+      "price": 2.90,
+      "rating": 4.7,
+      "ingredients": ["Mango pulp", "Yogurt", "Sugar", "Ice"],
+      "calories": 220,
+      "isVeg": true
+    },
+    {
+      "name": "Hot Chocolate",
+      "description": "Warm and rich hot chocolate made with cocoa and steamed milk.",
+      "price": 2.50,
+      "rating": 4.8,
+      "ingredients": ["Cocoa powder", "Milk", "Sugar", "Cream"],
+      "calories": 250,
+      "isVeg": true
+    },
+    {
+      "name": "Americano",
+      "description": "Strong and bold espresso diluted with hot water for a classic coffee.",
+      "price": 2.00,
+      "rating": 4.1,
+      "ingredients": ["Espresso", "Hot water"],
+      "calories": 15,
+      "isVeg": true
+    },
+    {
+      "name": "Latte",
+      "description": "Smooth espresso-based coffee with steamed milk and a light foam topping.",
+      "price": 2.80,
+      "rating": 4.5,
+      "ingredients": ["Espresso", "Steamed milk", "Milk foam"],
+      "calories": 190,
+      "isVeg": true
+    }
+  ]
