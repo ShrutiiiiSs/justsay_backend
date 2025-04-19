@@ -6,7 +6,8 @@
       "rating": 4.6,
       "ingredients": ["Carbonated water", "Sugar", "Caramel color", "Phosphoric acid", "Natural flavors", "Caffeine"],
       "calories": 140,
-      "isVeg": true
+      "isVeg": true,
+      "type": "beverage"
     },
     {
       "name": "Iced Tea",
@@ -15,7 +16,8 @@
       "rating": 4.2,
       "ingredients": ["Black tea", "Lemon extract", "Sugar", "Water"],
       "calories": 90,
-      "isVeg": true
+      "isVeg": true,
+      "type": "beverage"
     },
     {
       "name": "Vanilla Shake",
@@ -24,7 +26,8 @@
       "rating": 4.5,
       "ingredients": ["Milk", "Sugar", "Vanilla flavor", "Cream", "Stabilizers"],
       "calories": 300,
-      "isVeg": true
+      "isVeg": true,
+      "type": "beverage"
     },
     {
       "name": "Cold Coffee",
@@ -33,7 +36,8 @@
       "rating": 4.4,
       "ingredients": ["Coffee", "Milk", "Sugar", "Ice"],
       "calories": 180,
-      "isVeg": true
+      "isVeg": true,
+      "type": "beverage"
     },
     {
       "name": "Orange Fizz",
@@ -42,7 +46,8 @@
       "rating": 4.3,
       "ingredients": ["Carbonated water", "Orange flavor", "Sugar", "Citric acid"],
       "calories": 130,
-      "isVeg": true
+      "isVeg": true,
+      "type": "beverage"
     },
     {
       "name": "Strawberry Smoothie",
@@ -51,7 +56,8 @@
       "rating": 4.6,
       "ingredients": ["Strawberries", "Yogurt", "Sugar", "Ice"],
       "calories": 210,
-      "isVeg": true
+      "isVeg": true,
+      "type": "beverage"
     },
     {
       "name": "Mango Smoothie",
@@ -60,7 +66,8 @@
       "rating": 4.7,
       "ingredients": ["Mango pulp", "Yogurt", "Sugar", "Ice"],
       "calories": 220,
-      "isVeg": true
+      "isVeg": true,
+      "type": "beverage"
     },
     {
       "name": "Hot Chocolate",
@@ -69,7 +76,8 @@
       "rating": 4.8,
       "ingredients": ["Cocoa powder", "Milk", "Sugar", "Cream"],
       "calories": 250,
-      "isVeg": true
+      "isVeg": true,
+      "type": "beverage"
     },
     {
       "name": "Americano",
@@ -78,7 +86,8 @@
       "rating": 4.1,
       "ingredients": ["Espresso", "Hot water"],
       "calories": 15,
-      "isVeg": true
+      "isVeg": true,
+      "type": "beverage"
     },
     {
       "name": "Latte",
@@ -87,6 +96,7 @@
       "rating": 4.5,
       "ingredients": ["Espresso", "Steamed milk", "Milk foam"],
       "calories": 190,
-      "isVeg": true
+      "isVeg": true,
+      "type": "beverage"
     }
   ]

@@ -8,6 +8,7 @@ const FoodSchema = new mongoose.Schema({
   ingredients: [String],
   calories: Number,
   isVeg: Boolean,
+  type: String
 });
 
 module.exports = mongoose.model('Food', FoodSchema);

@@ -6,7 +6,9 @@
       "rating": 4.2,
       "ingredients": ["Potato patty", "Peas", "Lettuce", "Bun", "McAloo sauce"],
       "calories": 350,
-      "isVeg": true
+      "isVeg": true,
+      "type": "food"
+
     },
     {
       "name": "McChicken",
@@ -15,7 +17,9 @@
       "rating": 4.5,
       "ingredients": ["Chicken patty", "Mayonnaise", "Lettuce", "Sesame bun"],
       "calories": 430,
-      "isVeg": false
+      "isVeg": false,
+      "type": "food"
+
     },
     {
       "name": "French Fries",
@@ -24,7 +28,9 @@
       "rating": 4.6,
       "ingredients": ["Potatoes", "Salt", "Vegetable oil"],
       "calories": 320,
-      "isVeg": true
+      "isVeg": true,
+      "type": "food"
+
     },
     {
       "name": "Veg Pizza McPuff",
@@ -33,7 +39,9 @@
       "rating": 4.1,
       "ingredients": ["Wheat flour", "Capsicum", "Onion", "Tomato", "Cheese", "Spices"],
       "calories": 270,
-      "isVeg": true
+      "isVeg": true,
+      "type": "food"
+
     },
     {
       "name": "Filet-O-Fish",
@@ -42,7 +50,9 @@
       "rating": 4.0,
       "ingredients": ["Fish patty", "Tartar sauce", "Cheese", "Steamed bun"],
       "calories": 380,
-      "isVeg": false
+      "isVeg": false,
+      "type": "food"
+
     },
     {
       "name": "Big Mac",
@@ -51,7 +61,9 @@
       "rating": 4.7,
       "ingredients": ["Beef patties", "Special sauce", "Lettuce", "Cheese", "Pickles", "Onions", "Sesame bun"],
       "calories": 550,
-      "isVeg": false
+      "isVeg": false,
+      "type": "food"
+
     },
     {
       "name": "Chicken Nuggets",
@@ -60,7 +72,9 @@
       "rating": 4.3,
       "ingredients": ["Chicken", "Breadcrumbs", "Spices"],
       "calories": 410,
-      "isVeg": false
+      "isVeg": false,
+      "type": "food"
+
     },
     {
       "name": "Spicy Paneer Burger",
@@ -69,7 +83,9 @@
       "rating": 4.4,
       "ingredients": ["Paneer patty", "Tandoori sauce", "Lettuce", "Onion", "Bun"],
       "calories": 460,
-      "isVeg": true
+      "isVeg": true,
+      "type": "food"
+
     },
     {
       "name": "Cheeseburger",
@@ -78,7 +94,9 @@
       "rating": 4.5,
       "ingredients": ["Beef patty", "Cheese", "Pickles", "Onion", "Ketchup", "Mustard", "Bun"],
       "calories": 300,
-      "isVeg": false
+      "isVeg": false,
+      "type": "food"
+
     },
     {
       "name": "Veg Maharaja Mac",
@@ -87,6 +105,8 @@
       "rating": 4.8,
       "ingredients": ["Veg patties", "Lettuce", "Cheese", "Jalapenos", "Maharaja sauce", "Signature bun"],
       "calories": 600,
-      "isVeg": true
+      "isVeg": true,
+      "type": "food"
+
     }
   ]
